@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<details>
+  <summary>DO NOT CLICK THIS</SUMMARY>
+  
+  ![](https://i.imgur.com/kehYigq.gif)
+</details>
+
 <!--
 **X3llus/X3llus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
