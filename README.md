@@ -1,18 +1,17 @@
 ### Welcome to my GitHub
 
-<!--
-<details>
-  <summary>DO NOT CLICK THIS</SUMMARY>
-  
-  ![](https://i.imgur.com/kehYigq.gif)
-</details>
--->
+- 🔭 I’m currently working on my [portfolio website][website]
+- 🌱 I’m currently learning the Angular Framework and PWA's
+- 📫 How to reach me: [Contact Form][contact]
 
-I'm currently working on my [portfolio website](https://github.com/X3llus/portfolio), where i'm trying to learn how to use Angular and Typescript for cool functionality.
+<br />
+<br />
 
-I'm also learning about PWA's for some upcoming private projects that I'll be working on.
+[![Braden's github stats](https://github-readme-stats.vercel.app/api?username=X3llus&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-You can reach me at http://bradencoates.ca/#/contact
+<br />
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X3llus&hide=c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **X3llus/X3llus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: bradencoates.ca
+[contact]: bradencoates.ca/#/contact
