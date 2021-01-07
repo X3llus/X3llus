@@ -1,10 +1,10 @@
 ### Welcome to my GitHub
 
-- 🔭 I’m currently working on my [portfolio website][website]
+<!-- 🔭 I’m currently working on my [portfolio website][website]-->
 - 🏫 I'm currently a student in the Lakehead University / Georgian College Computer Science Bridge Program
 - 🌱 I’m currently learning the Angular Framework and PWA's
 - 👯 I’m looking to collaborate on anything web app or PWA related
-- 📫 How to reach me: [Contact Form][contact]
+<!-- 📫 How to reach me: [Contact Form][contact]-->
 
 <br />
 <br />
