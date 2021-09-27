@@ -2,7 +2,7 @@
 
 <!-- 🔭 I’m currently working on my [portfolio website][website]-->
 - 🏫 I'm currently a student in the Lakehead University / Georgian College Computer Science Bridge Program
-- 🌱 I’m currently learning the Flutter and looking into decentralization
+- 🌱 I’m currently learning SveltKit
 - 👯 I’m looking to collaborate on anything app related
 - 📫 How to reach me: instagram @_braden_c
 
