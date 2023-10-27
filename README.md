@@ -4,12 +4,12 @@
 - 🏫 I'm currently a student in the Lakehead University / Georgian College Computer Science Bridge Program
 - 🌱 I’m currently learning SveltKit
 - 👯 I’m looking to collaborate on anything app related
-- 📫 How to reach me: instagram @_braden_c
+- 📫 How to reach me: instagram @__lilly__c
 
 <br />
 <br />
 
-[![Braden's github stats](https://github-readme-stats.vercel.app/api?username=X3llus&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lilly's github stats](https://github-readme-stats.vercel.app/api?username=X3llus&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
